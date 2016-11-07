@@ -1,6 +1,6 @@
 <#
     Prerequisite: https://www.microsoft.com/en-us/download/details.aspx?id=35588
-    Gives administrative access to your user to one specific ODB site.
+    Gives administrative access to one specific ODB site.
 #>
 
 param (
